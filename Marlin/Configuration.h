@@ -495,10 +495,15 @@
   //#define DEFAULT_Ki 1.54
   //#define DEFAULT_Kd 76.55
 
-  //Ender 3 with Mellow Mosquito clone and marble machine hotend
+  // Ender 3 with Mellow Mosquito clone
   #define DEFAULT_Kp 10.32
   #define DEFAULT_Ki 0.54
   #define DEFAULT_Kd 49.64
+
+  // Ender 3 with Phaetus Dragonfly HIC 40W heater
+  #define DEFAULT_Kp 17.83
+  #define DEFAULT_Ki 0.85
+  #define DEFAULT_Kd 93.65
 
   // Ultimaker
   //#define DEFAULT_Kp 22.2
